@@ -3,6 +3,13 @@
 
 ## Assignments
 
+### Week 4
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+### Variables and Events
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ec9q1hFDPio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ### Week 3
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 ### Mouse Octagon (Nested Repeats)
