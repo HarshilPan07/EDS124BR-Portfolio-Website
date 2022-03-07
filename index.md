@@ -3,6 +3,13 @@
 
 ## Assignments
 
+### Week 9
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+### Abstraction (Sun/Sky picture)
+<p align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8BlItlMtuOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ### Week 8
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 ### Compound Conditionals
